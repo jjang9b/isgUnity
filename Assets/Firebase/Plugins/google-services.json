@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949553331738",
+    "firebase_url": "https://in-serengeti-77419703.firebaseio.com",
+    "project_id": "in-serengeti-77419703",
+    "storage_bucket": "in-serengeti-77419703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949553331738:android:1593c98dee93455e",
+        "android_client_info": {
+          "package_name": "com.BBplayworld.isg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949553331738-g7706cauisse0845qusmfli2qhucnppv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAJ7g5_xu7hoY14MUomPsRw4pbfgutH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949553331738-g7706cauisse0845qusmfli2qhucnppv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

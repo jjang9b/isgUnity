@@ -1,0 +1,9 @@
+lastUpgrade=00939
+proj.pluginVersion=0.9.39a
+proj.AppId=949553331738
+proj.classDir=Assets
+proj.ConstantsClassName=Isg.IsgClass
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e949553331738%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.BBplayworld.isg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement__%22%3eCgkImvynrtEbEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d
+and.ClientId=949553331738-bus7bhce0vgfb57l8mvqo93gcnqhsvg3.apps.googleusercontent.com
+android.SetupDone=true
+and.BundleId=com.BBplayworld.isg

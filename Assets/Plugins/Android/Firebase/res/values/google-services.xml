@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://in-serengeti-77419703.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">949553331738</string>
+  <string name="google_storage_bucket" translatable="false">in-serengeti-77419703.appspot.com</string>
+  <string name="project_id" translatable="false">in-serengeti-77419703</string>
+  <string name="google_api_key" translatable="false">AIzaSyCxAJ7g5_xu7hoY14MUomPsRw4pbfgutH4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCxAJ7g5_xu7hoY14MUomPsRw4pbfgutH4</string>
+  <string name="google_app_id" translatable="false">1:949553331738:android:1593c98dee93455e</string>
+  <string name="default_web_client_id" translatable="false">949553331738-g7706cauisse0845qusmfli2qhucnppv.apps.googleusercontent.com</string>
+</resources>

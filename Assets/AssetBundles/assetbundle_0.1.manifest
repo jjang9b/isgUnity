@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 364189844
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b22f8869009bcf84481a5bb1c4ca768e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Img/card/c2006.png
+- Assets/Resources/Img/card/bot/b7.png
+- Assets/Resources/Img/card/bot/b2.png
+- Assets/Resources/Img/card/c6.png
+- Assets/Resources/Img/card/bot/b4.png
+- Assets/Resources/Img/card/bot/b3.png
+- Assets/Resources/Img/card/c4004.png
+- Assets/Resources/Img/card/c2.png
+- Assets/Resources/Img/card/c3004.png
+- Assets/Resources/Img/card/c4.png
+- Assets/Resources/Img/card/bot/b5.png
+- Assets/Resources/Img/card/bot/b1.png
+- Assets/Resources/Img/card/c2004.png
+- Assets/Resources/Img/card/bot/b0.png
+- Assets/Resources/Img/card/c4001.png
+- Assets/Resources/Img/card/c2001.png
+- Assets/Resources/Img/card/c4002.png
+- Assets/Resources/Img/card/c3002.png
+- Assets/Resources/Img/card/bot/b9.png
+- Assets/Resources/Img/card/c2003.png
+- Assets/Resources/Img/card/c4003.png
+- Assets/Resources/Img/card/bot/b8.png
+- Assets/Resources/Img/card/c3.png
+- Assets/Resources/Img/card/c2002.png
+- Assets/Resources/Img/card/c3005.png
+- Assets/Resources/Img/card/c4005.png
+- Assets/Resources/Img/card/bot/b12.png
+- Assets/Resources/Img/item/item.telescope.png
+- Assets/Resources/Img/card/c3003.png
+- Assets/Resources/Img/card/c3001.png
+- Assets/Resources/Img/card/bot/b6.png
+- Assets/Resources/Img/item/item.experience.png
+- Assets/Resources/Img/card/c2005.png
+- Assets/Resources/Img/card/c1.png
+- Assets/Resources/Img/card/c5.png
+- Assets/Resources/Img/card/bot/b10.png
+- Assets/Resources/Img/card/cdefault.png
+- Assets/Resources/Img/card/bot/b11.png
+Dependencies: []

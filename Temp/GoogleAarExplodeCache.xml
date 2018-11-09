@@ -1,0 +1,343 @@
+<aars>
+  <explodeData>
+    <aar>firebase-analytics-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8361460+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/firebase-analytics-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-analytics-impl-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8416613+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/firebase-analytics-impl-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-analytics-impl-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-analytics-impl-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-analytics-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-analytics-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-app-unity-4.2.1</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-app-unity-4.2.1</path>
+    <targetAbi>armv7</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-common-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-common-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-common-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-common-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-core-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-core-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-iid-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-iid-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-iid-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-iid-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-messaging-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8266200+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/firebase-messaging-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-messaging-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-messaging-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-messaging-unity-4.2.1</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\firebase-messaging-unity-4.2.1</path>
+    <targetAbi>armv7</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-auth-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.7960366+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-auth-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-auth-base-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8105784+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-auth-base-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-base-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8206039+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-base-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-base-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\play-services-base-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8697383+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-basement-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\play-services-basement-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-drive-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8020527+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-drive-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-games-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.7850067+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-games-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-nearby-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.7910231+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-nearby-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-tasks-11.4.2</aar>
+    <modificationTime>2017-11-19T20:48:34.8622173+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/play-services-tasks-11.4.2.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-tasks-license-11.4.2</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android\play-services-tasks-license-11.4.2</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-annotations-25.2.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/support-annotations-25.2.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-compat-25.2.0</aar>
+    <modificationTime>2017-11-19T20:48:34.9539678+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/support-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-core-ui-25.2.0</aar>
+    <modificationTime>2017-11-19T20:48:34.9484532+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/support-core-ui-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-core-utils-25.2.0</aar>
+    <modificationTime>2017-11-19T20:48:34.9424368+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/support-core-utils-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-fragment-25.2.0</aar>
+    <modificationTime>2017-11-19T20:48:34.9359190+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/support-fragment-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-media-compat-25.2.0</aar>
+    <modificationTime>2017-11-19T20:48:34.9389268+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/support-media-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-v4-25.2.0</aar>
+    <modificationTime>2017-11-19T20:48:34.9319073+09:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.BBplayworld.isg</bundleId>
+    <path>Assets/Plugins/Android/support-v4-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
